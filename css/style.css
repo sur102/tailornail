@@ -49,6 +49,11 @@ html {
   height: auto;
 }
 
+.banner_img {
+  width: 350px;
+  margin-bottom: 90px;
+}
+
 body {
   color: #666666;
   font-size: 14px;
